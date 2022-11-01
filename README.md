@@ -20,4 +20,4 @@ as a group we wondered: based on the used cars listed for a
 specific state, is it possible to predict which political party
 is going to win the elections?
 
-READ the paper for more :)
+READ the paper for more :) and if you are runnin the code check for the path of the CSV files
