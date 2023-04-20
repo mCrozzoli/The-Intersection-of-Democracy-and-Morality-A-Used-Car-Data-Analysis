@@ -1,4 +1,6 @@
-# Can Used Cars Data Set Predict Political Elections?
+# The Intersection of Democracy and Morality: A Used Car Data Analysis
+
+### Can Used Cars Data Set Predict Political Elections?
 
 As a final project for the Data Mining course at the IT University of Copenhagen, we explored whether a used cars data set could be used to predict which political party would win an election. Our main goal was to identify the optimal timing for buying or selling a used car, but we wanted to add a fun and interesting twist to the assignment by examining the intersection between democracy and morality with a used car database.
 
