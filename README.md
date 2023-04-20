@@ -1,23 +1,9 @@
-# used_cars_for_political_prediction
-Based on a used cars data set, is it possible to predict which political party is going to win the elections?
+# Can Used Cars Data Set Predict Political Elections?
 
-This political prediction based on a used cars data set was a part of my final assigment for the Data Mining subject at IT University in Copenhagen.
+As a final project for the Data Mining course at the IT University of Copenhagen, we explored whether a used cars data set could be used to predict which political party would win an election. Our main goal was to identify the optimal timing for buying or selling a used car, but we wanted to add a fun and interesting twist to the assignment by examining the intersection between democracy and morality with a used car database.
 
-The main project aimed to predict the best moment ot buy or sell a used car, which drove interesting conclusions that you can read on the assigment's paper. 
+Although we did not expect to find any conclusive results, we were intrigued by the logic and implications of this task. We documented our findings and insights in the paper, including the interesting conclusions we drew about the best timing for buying or selling a used car.
 
-The political prediction came as a fun and interesting add-on to the assigment, where morality and democracy where tied to a used cars data base. We knew in advance that we were not going to have any conclusive results, but the implications and the logic work around this task was interesting enough to try.
+In Section III of the paper, we delve into our political prediction experiment. We noted that purchasing a car is a reflection of one's values and beliefs, and we wondered if this could also apply to voting in elections. Specifically, we examined the used cars listed for a particular state to determine if there was a correlation between the type of car and the political party that won the election.
 
-
-This is the intro to seccion III in the paper.
-
-POLITICAL PREDICTION FROM CAR MARKET.
-To buy a car represents in many ways a standpoint in
-one’s beliefs; electric or gasoline, family size, big or compact,
-luxurious or cost-efficient, comfort or performance? These
-parameters represent an ethical perspective; some of the same
-perspectives we think about when we vote in democracy. So
-as a group we wondered: based on the used cars listed for a
-specific state, is it possible to predict which political party
-is going to win the elections?
-
-READ the paper for more :) and if you are runnin the code check for the path of the CSV files
+If you're interested in learning more about our project and results, we invite you to read our paper.
