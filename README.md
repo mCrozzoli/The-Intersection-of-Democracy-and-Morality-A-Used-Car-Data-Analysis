@@ -2,6 +2,8 @@
 
 ### Can a Used Cars Data Set Predict Political Elections?
 
+get the data set from: https://www.kaggle.com/datasets/ananaymital/us-used-cars-dataset
+
 As a final project for the Data Mining course at the IT University of Copenhagen, we explored whether a used cars data set could be used to predict which political party would win an election. Our main goal was to identify the optimal timing for buying or selling a used car, but we wanted to add a fun and interesting twist to the assignment by examining the intersection between democracy and morality with a used car database.
 
 Although we did not expect to find any conclusive results, we were intrigued by the logic and implications of this task. We documented our findings and insights in the paper, including the interesting conclusions we drew about the best timing for buying or selling a used car.
